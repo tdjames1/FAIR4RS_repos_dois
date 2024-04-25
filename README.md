@@ -1,3 +1,8 @@
+Leaving the below instructions for now
+  but
+this will be replaced with proper README text in time. 
+
+
 # The Carpentries Workbench Template R Markdown Lesson
 
 This lesson is a template lesson that uses [The Carpentries Workbench][workbench].
@@ -72,5 +77,3 @@ complete the initial configuration of a new lesson repository built from this te
    and delete this section.
 
 [workbench]: https://carpentries.github.io/sandpaper-docs/
-
-test push!
