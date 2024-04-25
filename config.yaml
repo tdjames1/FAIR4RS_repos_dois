@@ -14,7 +14,7 @@ carpentry: 'incubator'
 title: 'Software repos, DOIs, metadata, citation' # FIXME
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: ~ 2024-04-24
+created: 2024-04-24
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, lesson, The Carpentries, FAIR4RS, repositories, dois, metadata, citation'
