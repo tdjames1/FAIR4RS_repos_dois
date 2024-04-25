@@ -1,6 +1,28 @@
 Leaving the below instructions for now
   but
-this will be replaced with proper README text in time. 
+this will be replaced with proper README text in time.
+
+Lesson Title: Software repos, DOIs, metadata, citation
+
+Lesson Description:
+While putting your software online certainly helps it satisfy the FAIR principles, simply doing so might not be enough for other researchers to actually find and utilise what you’ve put out there.
+
+It’s important to know the benefits and issues with where you store and publish your data, and to make the most of the tools these platforms provide, such as Digital Object Identifiers (DOIs). It’s also important to know best practice for how to increase the visibility and citability of your work in cases where your chosen platform lacks these features.
+
+This course will introduce and explore worked examples of elements that you should consider when publishing your software, which will help you easily reference your work, and also help make it more findable and reusable by others.
+
+
+Rendered version of the lesson: ??
+
+Contact Information: Please contact rdm@sheffield.ac.uk for any queries regarding this lesson
+
+Contributing Information: ??
+
+Credits/acknowledgements: [to be completed]
+
+Citation: 'https://github.com/RicCampbell/FAIR4RS_repos_dois/blob/main/CITATION.cff'
+
+Licence: 'https://github.com/RicCampbell/FAIR4RS_repos_dois/blob/main/LICENSE.md'
 
 
 # The Carpentries Workbench Template R Markdown Lesson
