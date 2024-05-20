@@ -42,7 +42,7 @@ tag. They will join to this discussion block, so you can give a general overview
 of the software used in this lesson here and fill out the individual operating
 systems (and potentially add more, e.g. online setup) in the solutions blocks.
 
-No specific software will be required for this lesson, however please make sure you can access your account on the University of Sheffield's institutional repositry[ORDA](https://orda.shef.ac.uk).
+No specific software will be required for this lesson, however please make sure you can access your account on the University of Sheffield's institutional repository [ORDA](https://orda.shef.ac.uk).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::
 
